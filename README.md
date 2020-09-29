@@ -1,4 +1,5 @@
-# digital-monopoly-in-excel
+# Digital Monopoly in Excel
+
 ![](images/playerinfo.png)
 ![](images/propertycard.png)
 ![](images/payments.png)
