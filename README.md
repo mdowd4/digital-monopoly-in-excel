@@ -1,8 +1,10 @@
 # Digital Monopoly in Excel
 
-![](images/playerinfo.png)
-![](images/propertycard.png)
-![](images/payments.png)
+<img src="/images/playerinfo.PNG" width=750>
+
+<img src="/images/propertycard.PNG" width=500> 
+
+<img src="/images/payments.PNG" width=500>
 
 ## Description
 This is an excel file for tracking most of the components of the board game Monopoly. It displays the name of each player along with how much money they have and all of their purchased properties. 
