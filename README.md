@@ -1,7 +1,7 @@
 # digital-monopoly-in-excel
-![](images\playerinfo.PNG)
-![](images\propertycard.PNG)
-![](images\payments.PNG)
+![](images/playerinfo.png)
+![](images/propertycard.png)
+![](images/payments.png)
 
 ## Description
 This is an excel file for tracking most of the components of the board game Monopoly. It displays the name of each player along with how much money they have and all of their purchased properties. 
