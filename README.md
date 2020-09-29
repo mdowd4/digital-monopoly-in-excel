@@ -1,26 +1,30 @@
 # Digital Monopoly in Excel
+<p align="center">
+<img src="/images/playerinfo.PNG">
+</p>
 
-<img src="/images/playerinfo.PNG" width=750>
-
+<p align="center">
 <img src="/images/propertycard.PNG" width=500> 
+</p>
 
-<img src="/images/payments.PNG" width=500>
-
+<p align="center">
+<img src="/images/payments.PNG">
+</p>
 ## Description
 This is an excel file for tracking most of the components of the board game Monopoly. It displays the name of each player along with how much money they have and all of their purchased properties. 
 
 ## Walkthrough
-Once the file is open, start by clicking the "New Game" button. You will be prompted to enter each player's name. Names will automatically be filled out in the sheet, bank accounts will be reset to 1500, Free Parking will be reset to 0, and all owned properties will be cleared.
+Once the file is open, start by clicking the **New Game** button. You will be prompted to enter each player's name. Names will automatically be filled out in the sheet, bank accounts will be reset to 1500, Free Parking will be reset to 0, and all owned properties will be cleared.
 
-Next, click on the "Make a Transfer" button. You will be taken to the Transfers sheet. 
+Next, click on the **Make a Transfer** button. You will be taken to the Transfers sheet. 
 
-Click the "Pay Players" button. You will be prompted to enter the name of the paying and recieving players (use exact name spelling, case sensitive). Enter any positive integer from 1 to 1500. 
+Click the **Pay Players** button. You will be prompted to enter the name of the paying and recieving players (use exact name spelling, case sensitive). Enter any positive integer from 1 to 1500. 
 
-To verify the transaction, click the "Return to Player Menu" button and you will be taken to the Player Info sheet. You should see that the two players' account totals changed by the amount you entered.
+To verify the transaction, click the **Return to Player Menu** button and you will be taken to the Player Info sheet. You should see that the two players' account totals changed by the amount you entered.
 
-Next, click the "Make a Purchase" button. Look at the first property at the top, which is Mediterranean Avenue. Click "Purchase Property" directly below the property card. You will be prompted to enter a player's name.
+Next, click the **Make a Purchase** button. Look at the first property at the top, which is Mediterranean Avenue. Click **Purchase Property** directly below the property card. You will be prompted to enter a player's name.
 
-To verify the transaction, click the "Return to Player Menu" button in the bottom right and you will be taken back to the Player Info sheet. You should see "Mediter. Ave" in that player's properties owned, and their account total reduced by 60.
+To verify the transaction, click the **Return to Player Menu** button in the bottom right and you will be taken back to the Player Info sheet. You should see "Mediter. Ave" in that player's properties owned, and their account total reduced by 60.
 
 You can also pay into or collect from Free Parking.
 
