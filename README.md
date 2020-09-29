@@ -1,4 +1,7 @@
 # digital-monopoly-in-excel
+![Player Info](C:\Users\maryc\OneDrive\Pictures\Screenshots\player.PNG)
+![Property Card](C:\Users\maryc\OneDrive\Pictures\Screenshots\card.PNG)
+![Payments](C:\Users\maryc\OneDrive\Pictures\Screenshots\pay.PNG)
 
 ## Description
 This is an excel file for tracking most of the components of the board game Monopoly. It displays the name of each player along with how much money they have and all of their purchased properties. 
@@ -29,6 +32,7 @@ Look under VBAProject -> Modules -> Module1 for all the functions called to in t
 This was my first VBA project. I made it in April 2019 when I was learning VBA over spring break. I made some minor changes in September 2020 before uploading it here.
 
 ## Future Additions
+- [ ] Better appearance
 - [ ] Buttons for all properties (only Mediterranean Ave can be purchased right now)
 - [ ] Dice rolling and a visualization of the board
 
