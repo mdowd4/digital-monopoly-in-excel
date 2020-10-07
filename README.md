@@ -12,7 +12,7 @@
 </p>
 
 ## Description
-This is an excel file for tracking most of the components of the board game Monopoly. It displays the name of each player along with how much money they have and all of their purchased properties. 
+This is an excel file for tracking most of the components of the board game Monopoly. It displays the name of each player along with how much money they have and all of their purchased properties. Currently, the project is unfinished because Mediterranean Ave is the only purchasable property.
 
 ## Walkthrough
 Once the file is open, start by clicking the **New Game** button. You will be prompted to enter each player's name. Names will automatically be filled out in the sheet, bank accounts will be reset to 1500, Free Parking will be reset to 0, and all owned properties will be cleared.
@@ -39,9 +39,12 @@ Look under VBAProject -> Modules -> Module1 for all the functions called to in t
 ## History
 This was my first VBA project. I made it in April 2019 when I was learning VBA over spring break. I made some minor changes in September 2020 before uploading it here.
 
+## Challenges
+The most challenging part of this project for me was the learning curve for VBA. I had a hard time finding resources for this language compared to others like C++. Eventually I found [this website](https://www.excel-easy.com/vba.html) which provided good documentation and examples.
+
 ## Future Additions
 - [ ] Better appearance
-- [ ] Buttons for all properties (only Mediterranean Ave can be purchased right now)
+- [ ] Purchase buttons for all other properties
 - [ ] Dice rolling and a visualization of the board
 
 Contributions are welcome!
